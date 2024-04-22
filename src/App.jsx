@@ -120,7 +120,7 @@ function App() {
             <input
               name="graduated"
               type="checkbox"
-              onClick={handleGraduatedInput}
+              onChange={handleGraduatedInput}
             />
           </label>
 
